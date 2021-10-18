@@ -15,7 +15,6 @@ SECRET_KEY = "b59bb529c691acfd3e89a0cf8256adb3581d7dbc07e43871645fda73eb28e335"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 15
 
-
 db_user = {
     "asdf": {
         "username": "asdf",
